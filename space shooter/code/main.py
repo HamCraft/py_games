@@ -143,10 +143,10 @@ explosion_sound.set_volume(0.3)
 
 
 # ---------------------Giorno Theme Song BG Music---------------------
-# pygame.mixer.init()
-# pygame.mixer.music.load("audio/bg.mp3")  
-# pygame.mixer.music.set_volume(0.4)  
-# pygame.mixer.music.play(loops = -1)
+pygame.mixer.init()
+pygame.mixer.music.load("audio/bg.mp3")  
+pygame.mixer.music.set_volume(0.4)  
+pygame.mixer.music.play(loops = -1)
 
 
 
